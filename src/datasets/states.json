@@ -1,0 +1,27 @@
+[
+  {
+    "id": "01184a48-49dd-46bd-b9d2-0c7dee3cfee8",
+    "name": "NSW",
+    "completeName": "New South Wales"
+  },
+  {
+    "id": "ab1e0f24-8b5a-41ea-a710-7465f61ed148",
+    "name": "SA",
+    "completeName": "South Australia"
+  },
+  {
+    "id": "ac23b51c-bdb1-4e50-8e27-f8d9db0488b1",
+    "name": "QLD",
+    "completeName": "Queensland"
+  },
+  {
+    "id": "2d821ad6-86a3-470b-978a-53c525043464",
+    "name": "VIC",
+    "completeName": "Victoria"
+  },
+  {
+    "id": "314fdf56-cb84-410e-bb9d-17b4528bddf9",
+    "name": "NT",
+    "completeName": "Northern Territory"
+  }
+]
